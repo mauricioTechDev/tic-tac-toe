@@ -1,0 +1,41 @@
+h1{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+section{
+  padding: 2% 15% 2% 15%;
+}
+.resetButton{
+  text-align: center;
+}
+table{
+  /* border: 2px solid black; */
+  border-collapse: collapse;
+  margin: 2% 0% 1% 32.5%;
+}
+th{
+  border: 2px solid black;
+  height: 100px;
+  width: 100px;
+}
+table tr:first-child th{
+  border-top: 0;
+}
+table tr:last-child th{
+  border-bottom: 0;
+}
+table tr th:first-child{
+  border-left: 0;
+}
+table tr th:last-child{
+  border-right: 0;
+}
+span{
+  margin: 1% 25% 1% 25%;
+    padding: 1% 11% 1% 11%;
+}
+
+.winner{
+  font-size: 51px;
+}
