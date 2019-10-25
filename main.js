@@ -14,6 +14,8 @@ const gamePlay = {
            }
            this.click++
          }
+         // check for draw
+         if(this.click == 10 ){document.querySelector(".winner").innerHTML = "this is a draw";}
          // checking for winner
          if(gameBoard[0].innerHTML === "O" && gameBoard[1].innerHTML === "O" && gameBoard[2].innerHTML === "O"){
            document.querySelector(".winner").innerHTML = "you won booiiii";
