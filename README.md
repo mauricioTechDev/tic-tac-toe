@@ -5,7 +5,7 @@
 ### This is a fully functional tic tac toe game that you can play against another person.
 
 
-
+![alt text](tic-tac-toe-screenshot.png)
 Tech Used:
 - HTML5
 - CSS3
