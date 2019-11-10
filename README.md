@@ -2,7 +2,7 @@
 
 ### Goal: Build a simple Tic-Tac-Toe Game
 
-### This is a fully functional tic tac toe game where a use can play against the computer.
+### This is a fully functional tic tac toe game that you can play against another person.
 
 
 Tech Used:
